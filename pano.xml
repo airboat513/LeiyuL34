@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.9" apprev="20995" hassounds="0" start="node1">
+  <panorama id="node1">
+    <input leveltilesize="510" levelingroll="0" height="1472" width="1472" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level width="1472" preload="0" height="1472" predecode="0"/>
+      <level width="736" preload="0" height="736" predecode="0"/>
+      <level width="368" preload="1" height="368" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360" fov="140" pan="360"/>
+    </view>
+    <userdata heading="0" latitude="" copyright="" info="" source="" datetime="2025/11/27 下午 04:14" customnodeid="" tags="L34" nodeid="node1" author="" title="DCIM\Camera01\IMG_20251127_161448_00_443.ins" description="" longitude="" comment=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" borderradius="1" bordercolor="0x000000" height="20" borderalpha="1" width="180" textalpha="1" backgroundalpha="1" background="1" border="1" enabled="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot target="$fwd" skinid="ht_node" tilt="-15.64" title="L34大門" url="{node2}" description="" id="Point01" pan="-351.67"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" softedge="0" zoomspeed="2" zoomfov="40" blendtime="1" zoomafteroutfov="40" zoomin="0" zoomoutpause="1" type="crossdissolve" enabled="1" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control hideabout="0" zoomcentercursor="1" lockedkeyboard="0" rubberband="0" sensitivity="8" simulatemass="1" contextprojections="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedwheel="0" speedwheel="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" levelingroll="0" height="1472" width="1472" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level width="1472" preload="0" height="1472" predecode="0"/>
+      <level width="736" preload="0" height="736" predecode="0"/>
+      <level width="368" preload="1" height="368" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360" fov="140" pan="360"/>
+    </view>
+    <userdata heading="0" latitude="" copyright="" info="" source="" datetime="2025/11/27 下午 04:16" customnodeid="" tags="L34" nodeid="node2" author="" title="DCIM\Camera01\IMG_20251127_161600_00_445.ins" description="" longitude="" comment=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" borderradius="1" bordercolor="0x000000" height="20" borderalpha="1" width="180" textalpha="1" backgroundalpha="1" background="1" border="1" enabled="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot target="$fwd" skinid="ht_node" tilt="-1.14" title="L34前區" url="{node1}" description="" id="Point01" pan="-214.05"/>
+      <hotspot target="$fwd" skinid="ht_node" tilt="-11.71" title="L34內部-1" url="{node3}" description="" id="Point02" pan="-349.78"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" softedge="0" zoomspeed="2" zoomfov="40" blendtime="1" zoomafteroutfov="40" zoomin="0" zoomoutpause="1" type="crossdissolve" enabled="1" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control hideabout="0" zoomcentercursor="1" lockedkeyboard="0" rubberband="0" sensitivity="8" simulatemass="1" contextprojections="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedwheel="0" speedwheel="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" levelingroll="0" height="1472" width="1472" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000">
+      <level width="1472" preload="0" height="1472" predecode="0"/>
+      <level width="736" preload="0" height="736" predecode="0"/>
+      <level width="368" preload="1" height="368" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" projection="4" fov="100" pan="0"/>
+      <flyin tilt="-90" projection="9" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="330" scaletofit="1" fovfisheye="360" fov="140" pan="360"/>
+    </view>
+    <userdata heading="0" latitude="" copyright="" info="" source="" datetime="2025/11/27 下午 04:16" customnodeid="" tags="L34" nodeid="node3" author="" title="DCIM\Camera01\IMG_20251127_161645_00_446.ins" description="" longitude="" comment=""/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label backgroundcolor="0xffffff" textcolor="0x000000" borderradius="1" bordercolor="0x000000" height="20" borderalpha="1" width="180" textalpha="1" backgroundalpha="1" background="1" border="1" enabled="1" wordwrap="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot target="$fwd" skinid="ht_node" tilt="-3.57" title="L34大門" url="{node2}" description="" id="Point01" pan="-355.73"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafterinfov="140" softedge="0" zoomspeed="2" zoomfov="40" blendtime="1" zoomafteroutfov="40" zoomin="0" zoomoutpause="1" type="crossdissolve" enabled="1" zoomout="0" blendcolor="0x000000"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control hideabout="0" zoomcentercursor="1" lockedkeyboard="0" rubberband="0" sensitivity="8" simulatemass="1" contextprojections="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" lockedmouse="0" invertwheel="0" invertcontrol="1" lockedwheel="0" speedwheel="1" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" title="" copyright="" description="" tags="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
